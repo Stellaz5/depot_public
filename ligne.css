@@ -1,5 +1,12 @@
 .ligne{
     text-align: center;
     font-family: "serif", sans-serif;
-    color: red;
+    color: white;
+    background-color: palegreen;
+
+}
+
+h1{
+    color:black;
+    background-color: aquamarine;
 }
